@@ -15,6 +15,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Embrace",
-            url: "https://github.com/ftoro-bc/embrace/releases/download/5.6.3/Embrace.xcframework.zip",
-        checksum: "186b5aee6015e07c7102e308f07bbd8e203e7888be543d75228c4e0c0c9f0f9b")
+            url: "https://github.com/ftoro-bc/embrace/releases/download/5.6.5/Embrace.xcframework.zip",
+        checksum: "ecc7fa627d53b234d43331f4fd1b06025b1b20764aee451fd3cfbcc92eb54a90")
     ])
